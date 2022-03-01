@@ -1,3 +1,3 @@
 # C++ Port Scanner with SFML
-Port Scanner with C++
+Port Scanner in C++
 ## Description
